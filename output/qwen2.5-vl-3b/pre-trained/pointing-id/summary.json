@@ -1,0 +1,74 @@
+{
+    "red_squares": {
+        "accuracy": 0.38545953360768176
+    },
+    "green_squares": {
+        "accuracy": 0.40054869684499317
+    },
+    "blue_squares": {
+        "accuracy": 0.3950617283950617
+    },
+    "magenta_squares": {
+        "accuracy": 0.3840877914951989
+    },
+    "yellow_squares": {
+        "accuracy": 0.4046639231824417
+    },
+    "cyan_squares": {
+        "accuracy": 0.3950617283950617
+    },
+    "red_circles": {
+        "accuracy": 0.52400548696845
+    },
+    "green_circles": {
+        "accuracy": 0.5020576131687243
+    },
+    "blue_circles": {
+        "accuracy": 0.5253772290809328
+    },
+    "magenta_circles": {
+        "accuracy": 0.48148148148148145
+    },
+    "yellow_circles": {
+        "accuracy": 0.49519890260631
+    },
+    "cyan_circles": {
+        "accuracy": 0.5294924554183813
+    },
+    "red_triangles": {
+        "accuracy": 0.4567901234567901
+    },
+    "green_triangles": {
+        "accuracy": 0.46364883401920437
+    },
+    "blue_triangles": {
+        "accuracy": 0.44718792866941015
+    },
+    "magenta_triangles": {
+        "accuracy": 0.4252400548696845
+    },
+    "yellow_triangles": {
+        "accuracy": 0.45267489711934156
+    },
+    "cyan_triangles": {
+        "accuracy": 0.4691358024691358
+    },
+    "red_stars": {
+        "accuracy": 0.47599451303155005
+    },
+    "green_stars": {
+        "accuracy": 0.47599451303155005
+    },
+    "blue_stars": {
+        "accuracy": 0.4732510288065844
+    },
+    "magenta_stars": {
+        "accuracy": 0.44718792866941015
+    },
+    "yellow_stars": {
+        "accuracy": 0.4732510288065844
+    },
+    "cyan_stars": {
+        "accuracy": 0.4869684499314129
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "red_squares": {
+        "accuracy": 0.17832647462277093
+    },
+    "green_squares": {
+        "accuracy": 0.2167352537722908
+    },
+    "blue_squares": {
+        "accuracy": 0.18106995884773663
+    },
+    "magenta_squares": {
+        "accuracy": 0.18930041152263374
+    },
+    "yellow_squares": {
+        "accuracy": 0.1755829903978052
+    },
+    "cyan_squares": {
+        "accuracy": 0.1728395061728395
+    },
+    "red_circles": {
+        "accuracy": 0.20713305898491083
+    },
+    "green_circles": {
+        "accuracy": 0.20027434842249658
+    },
+    "blue_circles": {
+        "accuracy": 0.16872427983539096
+    },
+    "magenta_circles": {
+        "accuracy": 0.1906721536351166
+    },
+    "yellow_circles": {
+        "accuracy": 0.20164609053497942
+    },
+    "cyan_circles": {
+        "accuracy": 0.18381344307270234
+    },
+    "red_triangles": {
+        "accuracy": 0.22633744855967078
+    },
+    "green_triangles": {
+        "accuracy": 0.23868312757201646
+    },
+    "blue_triangles": {
+        "accuracy": 0.22359396433470508
+    },
+    "magenta_triangles": {
+        "accuracy": 0.23182441700960219
+    },
+    "yellow_triangles": {
+        "accuracy": 0.2194787379972565
+    },
+    "cyan_triangles": {
+        "accuracy": 0.22770919067215364
+    },
+    "red_stars": {
+        "accuracy": 0.1755829903978052
+    },
+    "green_stars": {
+        "accuracy": 0.15775034293552812
+    },
+    "blue_stars": {
+        "accuracy": 0.15912208504801098
+    },
+    "magenta_stars": {
+        "accuracy": 0.1550068587105624
+    },
+    "yellow_stars": {
+        "accuracy": 0.17421124828532236
+    },
+    "cyan_stars": {
+        "accuracy": 0.15775034293552812
+    }
+}

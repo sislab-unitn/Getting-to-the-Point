@@ -1,0 +1,39 @@
+{
+	"size": [9, 9],
+    "img_size": 336,
+	"objects": [
+    	{
+        	"count": 1,
+            "shape": "square",
+            "color": "green",
+            "material": "metal",
+            "size": "large",
+            "position": [0,0]
+    	},
+    	{
+        	"count": 1,
+            "shape": "square",
+            "color": "green",
+            "material": "metal",
+            "size": "large",
+            "position": [0,8]
+    	},
+    	{
+        	"count": 1,
+            "shape": "square",
+            "color": "green",
+            "material": "metal",
+            "size": "large",
+            "position": [8,0]
+    	},
+    	{
+        	"count": 1,
+            "shape": "square",
+            "color": "green",
+            "material": "metal",
+            "size": "large",
+            "position": [8,8]
+    	}
+	]
+}
+

@@ -1,0 +1,19 @@
+{
+    "size": [10, 10],
+    "objects": [
+        {
+            "count": 3,
+            "color": "blue",
+            "position": "north"
+        },
+        {
+            "count": 2,
+            "type": "square",
+            "position": [7,7]
+        },
+        {
+            "count": 1,
+            "position": [4.5, 4.5]
+        }
+    ]
+}

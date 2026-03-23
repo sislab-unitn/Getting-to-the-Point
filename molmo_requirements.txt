@@ -1,0 +1,2 @@
+tensorflow[and-cuda]
+transformers==4.46.3
